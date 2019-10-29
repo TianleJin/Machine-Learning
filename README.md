@@ -6,5 +6,5 @@ This project was built using Python version 3.7.1. To run files inside this proj
 supports libraries including NumPy, Pandas, SciPy, matplotlib and sklearn. To install these library packages, use "pip install lib-name" 
 command (replace lib-name with actual names of libraries).
 
-# Contributors
+# Contributor
 Tianle Jin
