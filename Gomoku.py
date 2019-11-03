@@ -3,6 +3,7 @@ from random import randrange
 from cachetools import LRUCache
 from timeit import default_timer
 
+
 class ConnectFiveBoard:
 
     """This class offers a template for the game board used in the game of Gomoku a.k.a Connect 5.
