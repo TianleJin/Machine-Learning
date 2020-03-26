@@ -1,10 +1,7 @@
-# Machine-Learning
-This repository contains implementations of different machine learning algorithms.
+# Repository Content
+This repository contains my jupyter notebooks on machine learning concepts and my files from different data analysis challenges. 
 
-# Software Requirements 
-This project was built using Python version 3.7.1. To run files inside this project, you need to have a version of Python that 
-supports libraries including Keras, NumPy, Pandas, SciPy, matplotlib and sklearn. To install these library packages, use "pip install lib-name" 
-command (replace lib-name with actual names of libraries).
-
-# Contributor
-Tianle Jin
+# Software Dependencies
+Python 3.6
+Jupyter Notebook
+Use pip install [library] to install any missing libraries 
